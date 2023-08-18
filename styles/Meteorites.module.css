@@ -1,0 +1,13 @@
+.meteorites {
+  position: relative;
+  padding: 17px 24px 0 72px;
+  margin: 0 auto;
+  max-width: 402px;
+}
+
+
+.title {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 1.29;
+}

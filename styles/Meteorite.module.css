@@ -1,0 +1,50 @@
+.wrapper {
+  margin-top: 24px;
+  display: grid;
+}
+
+
+.info {
+  display: flex;
+  margin: 8px 0;
+  align-items: center;
+}
+
+.date {
+  font-size: 24px;
+  line-height: 1.33;
+}
+
+.distance {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.name {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration: underline;
+}
+
+.diameter {
+  font-size: 12px;
+  line-height: 1.33;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+}
+
+
+.active {
+  color: rgba(255, 255, 255, 1)
+}
+
+
+.dangerous {
+  color: rgba(227, 229, 229, 1);
+  font-size: 14px;
+  line-height: 1.33;
+}

@@ -1,0 +1,23 @@
+.earth_wrapper {
+  max-width: 48px;
+  max-height: 436px;
+  position: fixed;
+  object-fit: cover;
+  object-position: right;
+}
+
+@media screen and (min-width: 768px) {
+  .earth_wrapper {
+    max-width: 150px;
+    min-height: 620px;
+  }
+}
+
+
+
+@media screen and (min-width: 1025px) {
+  .earth_wrapper {
+    max-width: 400px;
+    min-height: 620px;
+  }
+}
